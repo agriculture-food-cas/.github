@@ -1,6 +1,6 @@
 # Fruit Datasets Analysis from Open Source Repositories
 
-This document provides an analysis of fruit-related datasets available on [PapersWithCode](https://paperswithcode.com/datasets?q=fruit&v=lst&o=match) and other major repositories. The search results indicate approximately 36 datasets related to fruits, though detailed information is only available for some of them.
+This document provides an analysis of fruit-related datasets available on [PapersWithCode](https://paperswithcode.com/datasets?q=fruit&v=lst&o=match) and other major repositories. 
 
 ## Overview
 
