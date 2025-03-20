@@ -147,18 +147,7 @@ There are numerous datasets focused on fruits for various computer vision and ma
   - Semantic and panoptic segmentation research
 - **DOI**: 10.5281/zenodo.3965568
 - **License**: MIT
-- **Citation**: 
-  ```
-  @misc{softwaremill_2020,
-    author       = {Maciej Adamiak},
-    title        = {Lemons quality control dataset},
-    institution  = {SoftwareMill},
-    month        = jul,
-    year         = 2020,
-    doi          = {10.5281/zenodo.3965568},
-    url          = {https://github.com/softwaremill/lemon-dataset}
-  }
-  ```
+- **Paper**: Adamiak, M. (2020, July). Lemons quality control dataset. SoftwareMill. https://doi.org/10.5281/zenodo.3965568
 
 ### AppleScabFDs (Apple Scab Fruits Dataset)
 - **Source**: Introduced by Kodors et al. in "Apple Scab Detection using CNN and Transfer Learning"
