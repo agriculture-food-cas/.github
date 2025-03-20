@@ -39,8 +39,6 @@ There are numerous datasets focused on fruits for various computer vision and ma
 | 33 | Fruits Dataset for Classification | Strawberries, Peaches, Pomegranates | Fresh vs. Rotten Classification | 1,500 controlled images (300×300) |
 | 34 | Fruits 360 | 131 classes of fruits/vegetables | Classification | 90,483 images (100×100 white bg) |
 
-**Note**: This is a partial list based on available information. The complete list would include approximately 36 datasets.
-
 ## Detailed Analysis
 
 ### TomatoPlantfactoryDataset (Tomato Detection)
