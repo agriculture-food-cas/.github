@@ -1,6 +1,6 @@
 # Fruit Datasets Analysis from Open Source Repositories
 
-This document provides an analysis of fruit-related datasets available on [PapersWithCode](https://paperswithcode.com/datasets?q=fruit&v=lst&o=match) and other major repositories. The search results indicate approximately 36 datasets related to fruits, though detailed information is only available for some of them.
+This document provides an analysis of fruit-related datasets available on [PapersWithCode](https://paperswithcode.com/datasets?q=fruit&v=lst&o=match) and other major repositories. 
 
 ## Overview
 
@@ -680,22 +680,30 @@ There are numerous datasets focused on fruits for various computer vision and ma
 
 ## Research Opportunities
 
-### Underutilized Datasets
-Many fruit datasets show 0 papers, suggesting untapped potential for:
-- Novel applications of existing datasets
-- Comparative studies across multiple fruit datasets
-- Transfer learning from popular to underutilized datasets
+### 1. **Underutilized Datasets**
+Many of the datasets with zero papers indicate potential for novel research. These underutilized datasets present opportunities for:
+- **Cross-domain applications**, such as applying computer vision methods from retail to agriculture and vice versa.
+- **Transfer learning** from more popular datasets (like Fruits 360) to those with fewer resources, expanding the scope of research.
 
-### Cross-Domain Applications
-Potential for applying techniques from:
-- Retail datasets (RPC, Grocery Store) to agricultural applications
-- Agricultural datasets to food quality monitoring systems
-- Material science approaches (SuperMat, MatSeg) to fruit quality assessment
+### 2. **Cross-Domain Applications**
+The intersection of different domains, like retail and agriculture, presents a rich area for innovation. For example:
+- **Retail data** (e.g., **Fruits Dataset for Classification**) can help in developing **automated food quality control systems**.
+- **Agricultural datasets** (e.g., **MinneApple**) can enhance **food quality monitoring** in the supply chain.
 
-### Dataset Enhancement Opportunities
-- Combining datasets for multi-stage fruit analysis (growth to retail)
-- Augmenting existing datasets with synthetic data
-- Creating multi-modal datasets that combine visual with other sensor data
+### 3. **Dataset Enhancement**
+There are opportunities to enrich current datasets:
+- **Combine datasets** for multi-stage fruit analysis, from growth monitoring to retail applications.
+- **Augment datasets with synthetic data** to bridge gaps in underrepresented fruit species or growth stages.
+
+### 4. **Multi-Modal Datasets**
+Integrating visual data with other sensor modalities (like audio from **WINGBEATS** or hyperspectral data from **DeepHS Fruit v2**) will open avenues for more robust and accurate systems in agriculture.
+
+### 5. **Synthetic-to-Real Transfer**
+Datasets like **Synthetic Plant Dataset** and **fruit-SALAD** offer controlled environments for training models that can be transferred to real-world settings, helping with scalability and deployment in practical applications.
+
+### 6. **Emerging Areas**
+- **Robotic Pruning**: **UFO Cherry Tree Point Clouds** offers data for 3D point cloud analysis, enabling automation of pruning tasks.
+- **Early Disease Detection**: **AppleScabLDs** and **AppleScabFDs** datasets can be further explored for advanced disease detection systems using CNNs and transfer learning.
 
 ## Conclusion
 
@@ -710,11 +718,8 @@ While some datasets have generated significant research interest, many others re
 
 For researchers looking to contribute to these fields, these datasets provide valuable starting points that can lead to impactful innovations in fruit-related technologies. 
 
-### Dataset License Types
-- **CC BY 4.0**: TomatoPlantfactoryDataset, CherryBBCH72, AppleBBCH81, CherryBBCH81, Pear640, DiaMOS Plant
+## License Types
+- **CC BY 4.0**: TomatoPlantfactoryDataset, CherryBBCH72, AppleBBCH81
 - **CC BY-NC 4.0**: Embrapa ADD 256
-- **CC BY-NC-ND 4.0**: AppleScabFDs, AppleScabLDs
-- **MIT License**: Fruits 360, Lemons quality control
-- **Apache 2.0**: Fruits Dataset for Classification
+- **MIT License**: Fruits 360
 - **U.S. Public Domain**: Multi-species Fruit Flower Detection
-- **Unknown/Other**: Various datasets
