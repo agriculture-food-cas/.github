@@ -22,19 +22,18 @@ There are numerous datasets focused on fruits for various computer vision and ma
 | 9 | [Pear640](https://github.com/agriculture-food-cas/Pear640) | Pear | Object Detection | YOLO-optimized 640×640 crops |
 | 10 | DiaMOS Plant | Pear fruit and leaves | Disease Diagnosis, Classification | 3,505 field images (13.1 GB) |
 | 11 | [Pistachio Image Dataset](https://github.com/agriculture-food-cas/Pistachio) | Pistachio | Variety Classification | 2,148 images (16 attributes each) |
-| 12 | TomatoPlantfactoryDataset | Tomato | Object Detection | Plant factory environment images |
+| 12 | [TomatoPlantfactoryDataset](https://github.com/agriculture-food-cas/TomatoPlantfactoryDataset) | Tomato | Object Detection | Plant factory environment images |
 | 13 | [MinneApple](https://github.com/agriculture-food-cas/MinneApple) | Apple | Detection and Segmentation | 1,000 images (41k+ instances) |
 | 14 | UFO Cherry Tree Point Clouds | Cherry | Tree Structure Analysis | 82 3D point clouds |
 | **Multiple Fruit Datasets** |
 | 15 | AIM-500 | Various (10 fruit images) | Image Matting | 500 high-quality matting pairs |
-| 18 | Herbarium 2021 Half-Earth | Various (includes fruit data) | Classification | Botanical specimen images |
-| 22 | Synthetic Plant Dataset | Plants and fruits | Object Detection | 10 growth sequences (0-19 days) |
-| 24 | WINGBEATS | Insect detection (fruit flies) | Audio Classification | Flight sound recordings |
-| 27 | ACFR Orchard Fruit Dataset | Apples, Mangoes, Almonds | Object Detection, Segmentation | 3,704 orchard images |
-| 28 | [fruit-SALAD](https://github.com/agriculture-food-cas/fruit-SALAD) | 10 fruit categories | Style and Semantic Similarity | 10,000 synthetic images (15.8 GB) |
-| 29 | Multi-species Fruit Flower Detection | Apple, Peach, Pear | Flower Segmentation | 197 images (1.74 GB) |
-| 30 | DeepHS Fruit v2 | Avocados, Kiwis, Persimmons, Papayas, Mango | Hyperspectral Ripeness Prediction | 5,689 hyperspectral recordings |
-| 31 | RawRipe Dataset | 10 fruit types | Maturity Recognition | Raw/ripe pairs across 10 species |
-| 32 | VegFru | 292 vegetable and fruit classes | Fine-Grained Visual Categorization | 160,000+ categorized images |
-| 33 | Fruits Dataset for Classification | Strawberries, Peaches, Pomegranates | Fresh vs. Rotten Classification | 1,500 controlled images (300×300) |
-| 34 | [Fruits 360](https://github.com/fruits-360/) | 131 classes of fruits/vegetables | Classification | 90,483 images (100×100 white bg) |
+| 16 | Herbarium 2021 Half-Earth | Various (includes fruit data) | Classification | Botanical specimen images |
+| 17 | Synthetic Plant Dataset | Plants and fruits | Object Detection | 10 growth sequences (0-19 days) |
+| 18 | ACFR Orchard Fruit Dataset | Apples, Mangoes, Almonds | Object Detection, Segmentation | 3,704 orchard images |
+| 19 | [fruit-SALAD](https://github.com/agriculture-food-cas/fruit-SALAD) | 10 fruit categories | Style and Semantic Similarity | 10,000 synthetic images (15.8 GB) |
+| 20 | Multi-species Fruit Flower Detection | Apple, Peach, Pear | Flower Segmentation | 197 images (1.74 GB) |
+| 21 | DeepHS Fruit v2 | Avocados, Kiwis, Persimmons, Papayas, Mango | Hyperspectral Ripeness Prediction | 5,689 hyperspectral recordings |
+| 22 | RawRipe Dataset | 10 fruit types | Maturity Recognition | Raw/ripe pairs across 10 species |
+| 23 | VegFru | 292 vegetable and fruit classes | Fine-Grained Visual Categorization | 160,000+ categorized images |
+| 24 | Fruits Dataset for Classification | Strawberries, Peaches, Pomegranates | Fresh vs. Rotten Classification | 1,500 controlled images (300×300) |
+| 25 | [Fruits 360](https://github.com/fruits-360/) | 131 classes of fruits/vegetables | Classification | 90,483 images (100×100 white bg) |
