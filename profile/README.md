@@ -26,10 +26,8 @@ There are numerous datasets focused on fruits for various computer vision and ma
 | 13 | [MinneApple](https://github.com/agriculture-food-cas/MinneApple) | Apple | Detection and Segmentation | 1,000 images (41k+ instances) |
 | 14 | UFO Cherry Tree Point Clouds | Cherry | Tree Structure Analysis | 82 3D point clouds |
 | **Multiple Fruit Datasets** |
-| 15 | AIM-500 | Various (10 fruit images) | Image Matting | 500 high-quality matting pairs |
-| 16 | Herbarium 2021 Half-Earth | Various (includes fruit data) | Classification | Botanical specimen images |
 | 17 | Synthetic Plant Dataset | Plants and fruits | Object Detection | 10 growth sequences (0-19 days) |
-| 18 | ACFR Orchard Fruit Dataset | Apples, Mangoes, Almonds | Object Detection, Segmentation | 3,704 orchard images |
+| 18 | [ACFR Orchard Fruit Dataset](https://github.com/agriculture-food-cas/acfr-multifruit-2016) | Apples, Mangoes, Almonds | Object Detection, Segmentation | 3,704 orchard images |
 | 19 | [fruit-SALAD](https://github.com/agriculture-food-cas/fruit-SALAD) | 10 fruit categories | Style and Semantic Similarity | 10,000 synthetic images (15.8 GB) |
 | 20 | Multi-species Fruit Flower Detection | Apple, Peach, Pear | Flower Segmentation | 197 images (1.74 GB) |
 | 21 | DeepHS Fruit v2 | Avocados, Kiwis, Persimmons, Papayas, Mango | Hyperspectral Ripeness Prediction | 5,689 hyperspectral recordings |
