@@ -37,4 +37,4 @@ There are numerous datasets focused on fruits for various computer vision and ma
 | 31 | RawRipe Dataset | 10 fruit types | Maturity Recognition | Raw/ripe pairs across 10 species |
 | 32 | VegFru | 292 vegetable and fruit classes | Fine-Grained Visual Categorization | 160,000+ categorized images |
 | 33 | Fruits Dataset for Classification | Strawberries, Peaches, Pomegranates | Fresh vs. Rotten Classification | 1,500 controlled images (300×300) |
-| 34 | Fruits 360 | 131 classes of fruits/vegetables | Classification | 90,483 images (100×100 white bg) |
+| 34 | [Fruits 360](https://github.com/fruits-360/) | 131 classes of fruits/vegetables | Classification | 90,483 images (100×100 white bg) |
